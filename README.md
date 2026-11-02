@@ -41,3 +41,5 @@ streamlit run app.py
 ## Limitations
 Weather data comes from one station in Central Park and may not represent all boroughs. The analysis shows associations, not causation. Crash counts also do not account for traffic volume.
 
+## AI Statement
+AI tools were used to assist in generating and debugging code for the Streamlit dashboard. The data analysis, project decisions, and final review were completed by the author.
